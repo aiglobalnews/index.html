@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>AI-Global News</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f9f9f9;
+      color: #333;
+      text-align: center;
+    }
+    header {
+      background: #111;
+      color: #fff;
+      padding: 20px;
+    }
+    header img {
+      max-width: 180px;
+      margin-bottom: 10px;
+    }
+    h1 {
+      margin: 10px 0;
+    }
+    nav {
+      margin: 15px 0;
+    }
+    nav a {
+      margin: 0 10px;
+      color: #0077cc;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    .content {
+      max-width: 800px;
+      margin: 20px auto;
+      padding: 20px;
+      background: #fff;
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+    .btn {
+      display: inline-block;
+      padding: 12px 20px;
+      margin: 10px 5px;
+      background: #0077cc;
+      color: #fff;
+      text-decoration: none;
+      border-radius: 6px;
+      font-weight: bold;
+    }
+    footer {
+      margin-top: 30px;
+      padding: 15px;
+      font-size: 0.9em;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="https://chatgpt.com/s/m_68cda238a62481918795017023344e24" alt="AI-Global News Logo">
+    <h1>AI-Global News</h1>
+    <p>Justice · Truth · Freedom · Community · Respect for life and nature</p>
+  </header>
+
+  <nav>
+    <a href="#english">English</a> · 
+    <a href="#french">Français</a> · 
+    <a href="#spanish">Español</a> · 
+    <a href="#chinese">中文</a> · 
+    <a href="#russian">Русский</a> · 
+    <a href="#arabic">العربية</a> · 
+    <a href="#hindi">हिंदी</a> · 
+    <a href="#portuguese">Português</a> · 
+    <a href="#norwegian">Norsk</a>
+  </nav>
+
+  <div class="content">
+    <h2>About</h2>
+    <p><strong>AI-Global News</strong> is a daily multi-language newspaper created 100% by AI and shared by humans. 
+    We publish news based on our timeless values: Justice, Truth, Freedom, Community, and Respect for life and nature.</p>
+
+    <h2>Read Today’s Edition</h2>
+    <p>Click below to open the latest full edition of AI-Global News:</p>
+    <a href="https://t.me/aiglobalnews" target="_blank" class="btn">📢 Read on Telegram</a>
+    <a href="https://aiglobalnews.substack.com" target="_blank" class="btn">📰 Read on Substack</a>
+
+    <h2>Disclaimer</h2>
+    <p>This newspaper is <strong>100% AI-generated</strong>. It may contain language mistakes, inaccuracies, or source errors. 
+    Always read critically and verify with original sources.</p>
+  </div>
+
+  <footer>
+    &copy; 2025 AI-Global News · All Rights Reserved
+  </footer>
+</body>
+</html>
